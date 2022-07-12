@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.getarrays.server.resource.ServerResourceTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.553 s - in io.getarrays.server.resource.ServerResourceTest

@@ -1,0 +1,5 @@
+io/getarrays/server/model/ServerTest.class
+io/getarrays/server/service/implementation/ServerServiceImplTest.class
+io/getarrays/server/resource/ServerResourceTest.class
+io/getarrays/server/ServerApplicationTests.class
+io/getarrays/server/model/ResponseTest.class
